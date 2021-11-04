@@ -1,1 +1,2 @@
-# RNDS---code
+# RNDS-code
+writing readme..
